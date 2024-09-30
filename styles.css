@@ -10,6 +10,7 @@ body {
 	width: 400px;
 	height: 300px;
 	margin: auto;
+	padding: 15px;
 }
 .postcard-header {
 	display: flex;
@@ -30,7 +31,7 @@ body {
 }
 .body-left,
 .body-right {
-	padding: x;
+	padding: 10px;
 }
 .input {
 	border: none;
@@ -43,4 +44,7 @@ button {
 	background-color: darkgray;
 	padding: 10px;
 	border: none;
+}
+h1 {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
